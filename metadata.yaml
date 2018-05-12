@@ -1,0 +1,29 @@
+_repo: A-Guide-to-Men--Being-Encore-Reflections-of-a-Bachelor-Girl_30630
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30630-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rowland, Helen
+    birthdate: 1876
+    gutenberg_agent_id: '34715'
+    url: http://www.gutenberg.org/2009/agents/34715
+description: ''
+gutenberg_issued: '2009-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30630'
+  lccn: '23009272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Humor'
+- !lcc 'PS'
+- !lcsh 'Marriage -- Humor'
+- !lcsh 'Women -- Humor'
+- !lcsh 'Men -- Humor'
+title: 'A Guide to Men: Being Encore Reflections of a Bachelor Girl'
+url: http://www.gutenberg.org/ebooks/30630

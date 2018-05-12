@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34715'
     url: http://www.gutenberg.org/2009/agents/34715
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30630#A-Guide-to-Men--Being-Encore-Reflections-of-a-Bachelor-Girl
 gutenberg_issued: '2009-12-08'
 gutenberg_type: Text
 identifiers:
